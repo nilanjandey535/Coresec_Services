@@ -39,7 +39,7 @@ export default function Services() {
           transition={{ duration: 0.8, ease: "easeOut" }}
         >
           <img
-            src="/dist/service_hero.png"
+            src="/assets/service_hero.png"
             alt="background"
             className="w-full h-full object-cover"
             style={{ minHeight: '100vh' }}

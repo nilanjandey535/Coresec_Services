@@ -225,7 +225,7 @@ export default function ContactForm({ formData, handleChange, handleSubmit: exte
             className="hidden md:block"
           >
             <img
-              src="/dist/social_ai.png"
+              src="/assets/social_ai.png"
               alt="AI Assistant Helping"
               className="w-full h-auto rounded-xl shadow-xl"
             />

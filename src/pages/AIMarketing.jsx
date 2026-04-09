@@ -738,7 +738,7 @@ export default function AIMarketing() {
           >
             <div className="bg-slate-200 rounded-xl p-3">
               <img
-                src="/dist/business_struggle.png"
+                src="/assets/business_struggle.png"
                 alt="Businessman"
                 className="w-[320px] h-auto object-contain"
               />
@@ -1362,7 +1362,7 @@ export default function AIMarketing() {
               className="rounded-2xl overflow-hidden shadow-xl"
             >
               <img
-                src="/dist/fitness_case_study.png"
+                src="/assets/fitness_case_study.png"
                 alt="Fitness AI Automation"
                 className="w-full h-auto object-cover"
               />

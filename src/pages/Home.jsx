@@ -687,7 +687,7 @@ export default function Home() {
 
           <div className="bg-gradient-to-br from-[#e60a11]/20 to-transparent rounded-2xl p-8 h-96 flex items-center justify-center">
             <img
-              src="/dist/ai.png"
+              src="/assets/ai.png"
               alt="CoreSec AI Business OS"
               className="w-full h-full"
             />
@@ -953,7 +953,7 @@ export default function Home() {
                 className="relative bg-[#0a2540] rounded-[30px] overflow-hidden shadow-2xl"
               >
                 <img
-                  src="/dist/clinic_home.png"
+                  src="/assets/clinic_home.png"
                   alt="AI Dashboard"
                   className="w-full h-full object-cover opacity-80"
                 />

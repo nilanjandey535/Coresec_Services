@@ -36,7 +36,7 @@ export function Footer() {
                 transition={{ duration: 0.3, ease: "easeInOut" }}
               >
                 <img
-                  src="/dist/logo.png"
+                  src="/assets/logo.png"
                   alt="CoreSec Logo"
                   className="h-12 w-auto rounded-xl"
                 />

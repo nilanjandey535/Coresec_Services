@@ -648,7 +648,7 @@ export default function About() {
               transition={{ duration: 0.8 }}
             >
               <img
-                src="/dist/mission.png"
+                src="/assets/mission.png"
                 alt="Our Mission - AI Automation Workflow"
                 className="w-full h-[350px] md:h-[450px] object-cover rounded-xl shadow-xl"
               />
@@ -735,7 +735,7 @@ export default function About() {
               className="flex items-center justify-center"
             >
               <img
-                src="/dist/vision.png"
+                src="/assets/vision.png"
                 alt="Our Vision - Future Technology Network"
                 className="w-[300px] lg:max-w-md h-[300px] object-cover rounded-xl shadow-xl"
               />
@@ -917,7 +917,7 @@ export default function About() {
               className="hidden md:block"
             >
               <img
-                src="/dist/service_hero.png"
+                src="/assets/service_hero.png"
                 alt="Technology Workflow Diagram"
                 className="w-full h-[500px] object-cover rounded-2xl shadow-2xl"
               />

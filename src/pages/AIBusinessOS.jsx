@@ -297,7 +297,7 @@ export default function AIBusinessOS() {
           <div className="relative">
             {/* Background - Neuro Brain Image (sequential animation) */}
             <motion.img
-              src="/dist/neuro_brain.png"
+              src="/assets/neuro_brain.png"
               alt="Neural Network"
               className="absolute w-auto h-auto object-contain rounded-xl"
               initial={{ 
@@ -629,7 +629,7 @@ export default function AIBusinessOS() {
             
             {/* Foreground - Human Face Image (fades out to reveal brain) */}
             <motion.img
-              src="/dist/human_face.png"
+              src="/assets/human_face.png"
               alt="AI Business OS"
               className="w-full h-auto rounded-xl shadow-2xl relative z-10"
               initial={{ opacity: 0, scale: 0.9 }}
@@ -1299,7 +1299,7 @@ export default function AIBusinessOS() {
             {/* Robot Image Container */}
             <div className="relative w-full h-full min-h-[400px] bg-gradient-to-br from-white/5 to-transparent rounded-2xl flex items-center justify-center border border-white/10 shadow-2xl">
               <img
-                src="/dist/robot.png"
+                src="/assets/robot.png"
                 alt="AI Robot"
                 className="w-full h-full object-cover"
               />

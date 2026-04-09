@@ -30,7 +30,7 @@ export default function Header() {
           transition={{ duration: 0.3, ease: "easeInOut" }}
         >
           <img
-            src="/dist/logo.png"
+            src="/assets/logo.png"
             alt="CoreSec Logo"
             className="h-8 md:h-10 w-auto"
           />

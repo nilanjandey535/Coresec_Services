@@ -52,7 +52,7 @@ export default function SunsineClinicCaseStudy() {
         <div className="relative w-full max-w-full rounded-none overflow-hidden">
           {/* Background Image */}
           <img
-            src="/dist/sunsine_ai.png"
+            src="/assets/sunsine_ai.png"
             alt="Clinic Interior"
             className="w-full h-[420px] object-cover"
           />

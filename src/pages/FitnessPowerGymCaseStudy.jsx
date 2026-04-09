@@ -102,7 +102,7 @@ export default function FitnessPowerGymCaseStudy() {
               className="relative"
             >
               <img
-                src="/dist/fitness_case_study.png"
+                src="/assets/fitness_case_study.png"
                 alt="Fitness Power Gym - AI Automation Dashboard"
                 className="w-full h-[350px] md:h-[450px] object-cover rounded-xl shadow-2xl"
               />
@@ -260,7 +260,7 @@ export default function FitnessPowerGymCaseStudy() {
             >
               <div className="bg-gradient-to-br from-blue-50 to-blue-100 rounded-xl p-6 shadow-lg">
                 <img
-                  src="/dist/social_ai.png"
+                  src="/assets/social_ai.png"
                   alt="Onboarding Dashboard"
                   className="w-full h-auto rounded-xl"
                 />
@@ -371,7 +371,7 @@ export default function FitnessPowerGymCaseStudy() {
                 viewport={{ once: true }}
                 transition={{ duration: 0.7 }}
               >
-                <img src="/dist/fitness_ai.png" alt="Post Preview" className="w-[300px] h-[350px] rounded-xl" />
+                <img src="/assets/fitness_ai.png" alt="Post Preview" className="w-[300px] h-[350px] rounded-xl" />
               </motion.div>
 
               {/* Features List */}
